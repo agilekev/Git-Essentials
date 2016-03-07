@@ -1,4 +1,4 @@
-# hello-world
-Hello world sandbox
+# Git Essentials
 
-Just adding my first changes to test a commit
+THis is a first test project. It is where I will maintain my basic Git scripts and also test Git activities.
+
